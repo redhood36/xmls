@@ -6,3 +6,9 @@
 <fanart></fanart>
 
 </dir>
+
+<dir>
+      <title>[COLORwhite]Popular TV Shows[/COLOR]</title>
+      <trakt>https://api.trakt.tv/shows/popular/items</trakt>
+</dir>
+
