@@ -9,6 +9,8 @@
 
 <dir>
       <title>[COLORwhite]Popular TV Shows[/COLOR]</title>
-      <trakt>https://trakt.tv/shows/popular</trakt>
+      <trakt>https://api.trakt.tv/shows/popular</trakt>
 </dir>
+
+
 
