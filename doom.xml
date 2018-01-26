@@ -12,3 +12,8 @@
       <title>Lego Movies</title>
       <trakt>https://api.trakt.tv/users/maitreyoussef/lists/list-of-lego-films/items</trakt>
 </dir>
+
+<dir>
+      <title>80's Cartoons</title>
+      <trakt>https://trakt.tv/users/rendom/lists/memory-lane-cartoons-80-s/items</trakt>
+</dir>
