@@ -8,9 +8,19 @@
 </dir>
 
 <dir>
-      <title>[COLORwhite]Popular TV Shows[/COLOR]</title>
-      <trakt>https://api.trakt.tv/shows/popular</trakt>
+      <title>[COLORgreen]Popular Tv Shows[/COLOR]</title>
+      <tmdb>tv/popular</tmdb>
 </dir>
+
+<dir>
+      <title>[COLORgreen]Airing Today[/COLOR]</title>
+      <tmdb>tv/today</tmdb>
+</dir>
+
+<dir>
+      <title>[COLORgreen]Popular People[/COLOR]</title>
+      <tmdb>people/popular</tmdb>
+</dir
 
 
 
