@@ -68,5 +68,10 @@
       <trakt>https://api.trakt.tv/users/echang/lists/sony-pictures/items</trakt>
 </dir>
 
+<dir>
+      <title>PBS Kids</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/pbs-kids/items</trakt>
+</dir>
+
 
 
