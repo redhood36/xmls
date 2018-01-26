@@ -1,36 +1,4 @@
-<item>
-        <title>Atomic Blonde</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt2406566</imdb>
-                <title>Atomic Blonde</title>
-                <year>2017</year>
-        </meta>
-        <link>
-                <sublink>https://streamango.com/f/mkeoefancrctrqro/Atomic_Blonde_2017_Farsi_Subbed_720p_BRRip_AVADL_CO_mkv_mp4
-</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
-
-<item>
-        <title>Deadpool</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt1431045</imdb>
-                <title>Deadpool</title>
-                <year>2016</year>
-        </meta>
-        <link>
-                <sublink>https://streamango.com/f/cdpdmcbsaccakcao/Deadpool_2016_mp4</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_SY1000_SX686_AL_.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
+ <dir>
+      <title>Dubbed Anime</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/anime/items</trakt>
+ </dir>
