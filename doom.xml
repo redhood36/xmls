@@ -63,5 +63,10 @@
       <trakt>https://api.trakt.tv/users/echang/lists/blue-sky/items</trakt>
 </dir>
 
+<dir>
+      <title>Sony Pictures Animation</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/sony-pictures/items</trakt>
+</dir>
+
 
 
