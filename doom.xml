@@ -2,3 +2,8 @@
       <title>Mobile Suite Gundam</title>
       <trakt>https://api.trakt.tv/users/echang/lists/anime/items</trakt>
  </dir>
+
+<dir>
+      <title>Doom's Anime</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/anime-798107f6-d7ca-41ad-af40-0852fcb62c17/items</trakt>
+</dir>
