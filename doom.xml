@@ -15,5 +15,11 @@
 
 <dir>
       <title>80's Cartoons</title>
-      <trakt>https://trakt.tv/users/rendom/lists/memory-lane-cartoons-80-s/items</trakt>
+      <trakt>https://api.trakt.tv/users/rendom/lists/memory-lane-cartoons-80-s/items</trakt>
 </dir>
+
+<dir>
+      <title>Warner Bros Toons</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/warner-bros/items</trakt>
+</dir>
+
