@@ -48,5 +48,10 @@
       <trakt>https://api.trakt.tv/users/echang/lists/tmnt/items</trakt>
 </dir>
 
+<dir>
+      <title>Disney Movies</title>
+      <trakt>https://api.trakt.tv/users/themoodymuck/lists/disney/items</trakt>
+</dir>
+
 
 
