@@ -43,5 +43,10 @@
       <trakt>https://api.trakt.tv/users/echang/lists/he-man/items</trakt>
 </dir>
 
+<dir>
+      <title>TMNT</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/tmnt/items</trakt>
+</dir>
+
 
 
