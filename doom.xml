@@ -23,3 +23,8 @@
       <trakt>https://api.trakt.tv/users/echang/lists/warner-bros/items</trakt>
 </dir>
 
+<dir>
+      <title>Tom & Jerry Toons</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/tom-jerry/items</trakt>
+</dir>
+
