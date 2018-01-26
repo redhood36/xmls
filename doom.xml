@@ -24,7 +24,13 @@
 </dir>
 
 <dir>
-      <title>Tom & Jerry Toons</title>
+      <title>Tom and Jerry Toons</title>
       <trakt>https://api.trakt.tv/users/echang/lists/tom-jerry/items</trakt>
 </dir>
+
+<dir>
+      <title>Thundercats</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/thunder-cats/items</trakt>
+</dir>
+
 
