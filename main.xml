@@ -32,5 +32,10 @@
       <trakt>https://api.trakt.tv/users/tomandlavone/lists/marvel-s-netflix-series/items</trakt>
 </dir>
 
+<dir>
+      <title>Search</title>
+      <tmdb>search</tmdb>
+</dir>
+
 
 
