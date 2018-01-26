@@ -20,7 +20,12 @@
 <dir>
       <title>[COLORgreen]Popular People[/COLOR]</title>
       <tmdb>people/popular</tmdb>
-</dir
+</dir>
+
+<dir>
+      <title>Marvel's Netflix Series</title>
+      <trakt>https://api.trakt.tv/users/tomandlavone/lists/marvel-s-netflix-series/items</trakt>
+</dir>
 
 
 
