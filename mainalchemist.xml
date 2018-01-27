@@ -28,5 +28,24 @@
 <tmdb>list/46255</tmdb>
 </dir>
 
+<dir>
+        <name>[B][COLORturquoise]Disney/Pixar [/COLOR][/B]</name>
+        <link>http://lookingglass.rocks/taquitz/Xml/pixar.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://images.all-free-download.com/images/graphicthumb/cars_pixar_7_95488.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+  
+<dir>
+      <title>Avengers Library</title>
+      <trakt>https://api.trakt.tv/users/brutalsleeper/lists/avengers/items</trakt>
+</dir>
+
+<dir>
+      <title>DC Library</title>
+      <trakt>https://api.trakt.tv/users/darkman1498/lists/dc-movies/items</trakt>
+</dir>
+
 
 
