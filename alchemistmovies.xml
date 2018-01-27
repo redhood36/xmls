@@ -35,10 +35,10 @@
 
 </dir>
 
-<dir>
-<title>Tim Burton Movies</title>
-<tmdb>lists/46215</tmdb>
-</dir>
+ <dir>
+      <title>Tim Burton Movies</title>
+      <trakt>https://api.trakt.tv/users/bubbles-prior/lists/tim-burton/items</trakt>
+ </dir>
 
 <dir>
       <title>Search</title>
