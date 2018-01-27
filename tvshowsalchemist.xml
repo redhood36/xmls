@@ -2,3 +2,28 @@
       <title>Popular Tv Shows</title>
       <tmdb>tv/popular</tmdb>
 </dir>
+
+<dir>
+      <title>Airing Today</title>
+      <tmdb>tv/today</tmdb>
+</dir>
+
+<dir>
+      <title>Trending Shows</title>
+      <trakt>api.https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
+      <title>TV Collection</title>
+      <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+</dir>
+
+<dir>
+      <title>My lists</title>
+      <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+</dir>
+
+<dir>
+      <title>Search TMDB</title>
+      <tmdb>search</tmdb>
+</dir>
