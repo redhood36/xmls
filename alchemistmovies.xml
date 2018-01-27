@@ -9,7 +9,7 @@
 
 <dir>
 
-<name>[COLORgold]Genres[/COLOR]</name>
+<name>[COLORgoldGenres[/COLOR]</name>
 <link>https://archive.org/download/prometheus_201712/genres.txt</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -17,9 +17,14 @@
 </dir>
 
 <dir>
-      [COLORgold]<title>In Theaters</title>[/COLOR]
+      <title>In Theaters</title>
       <tmdb>movies/now_playing</tmdb>
 </dir>
+
+<dir>
+      <title>Popular Movies</title>
+      <tmdb>movies/popular</tmdb>
+    </dir>
 
 <dir>
 
@@ -28,6 +33,11 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 
+</dir>
+
+<dir>
+      <title>Search TMDB</title>
+      <tmdb>search</tmdb>
 </dir>
 
 
