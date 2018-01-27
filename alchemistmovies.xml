@@ -60,6 +60,11 @@
 </dir>
 
 <dir>
+      <title>Gangster Movies</title>
+      <trakt>https://api.trakt.tv/users/iktnikola/lists/101-gangster-movies-you-must-see-before-you-die/items</trakt>
+ </dir>
+
+<dir>
       <title>Search</title>
       <tmdb>search</tmdb>
 </dir>
