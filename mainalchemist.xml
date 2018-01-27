@@ -24,8 +24,8 @@
 </item>
 
 <dir>
-      <title>The Walking Dead</title>
-      <trakt>https://api.trakt.tv/users/echang/lists/walking-dead/items</trakt>
+      <title>TMDB Star Wars Collection</title>
+      <tmdb>collection/46255</tmdb>
 </dir>
 
 
