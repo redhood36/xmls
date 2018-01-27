@@ -9,6 +9,15 @@
 
 <dir>
 
+<name>4K Movies</name>
+<link>https://archive.org/download/NewReleases_201801/NewReleases.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+</dir>
+
+<dir>
+
 <name>Genres</name>
 <link>https://archive.org/download/prometheus_201712/genres.txt</link>
 <thumbnail></thumbnail>
