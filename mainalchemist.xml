@@ -38,14 +38,11 @@
 </dir>
   
 <dir>
-      <title>[COLORred]Avengers Library[/COLOR]</title>
-      <trakt>https://api.trakt.tv/users/brutalsleeper/lists/avengers/items</trakt>
+      <title>[COLORred]Newer Comic Movies[/COLOR]</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/newer-comic-movies/items</trakt>
 </dir>
 
-<dir>
-      <title>[COLORyellow]DC Library[/COLOR]</title>
-      <trakt>https://api.trakt.tv/users/darkman1498/lists/dc-movies/items</trakt>
-</dir>
+
 
 
 
