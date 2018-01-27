@@ -1,6 +1,6 @@
 <dir>
 
-<name>[COLORgold]New Movies[/COLOR]</name>
+<name>New Movies</name>
 <link>https://archive.org/download/NewReleases_201801/NewReleases.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -9,7 +9,7 @@
 
 <dir>
 
-<name>[COLORgold]Genres[/COLOR]</name>
+<name>Genres</name>
 <link>https://archive.org/download/prometheus_201712/genres.txt</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -28,7 +28,7 @@
 
 <dir>
 
-<name>[COLORgold]Cam Copies[/COLOR]</name>
+<name>Cam Copies</name>
 <link>https://raw.githubusercontent.com/redhood36/xmls/master/cams.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -36,7 +36,7 @@
 </dir>
 
 <dir>
-      <title>TMDB</title>
+      <title>Search</title>
       <tmdb>search</tmdb>
 </dir>
 
