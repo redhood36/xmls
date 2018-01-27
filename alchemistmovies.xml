@@ -10,7 +10,7 @@
 <dir>
 
 <name>4K Movies</name>
-<link>https://archive.org/download/NewReleases_201801/NewReleases.xml</link>
+<link>https://raw.githubusercontent.com/redhood36/xmls/master/4kmovies.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 
