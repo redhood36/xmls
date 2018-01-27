@@ -17,11 +17,18 @@
 </dir>
 
 <dir>
+      <title>In Theaters</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
 
 <name>[COLORgold]Cam Copies[/COLOR]</name>
-<link>https://archive.org/download/prometheus_201712/genres.txt</link>
+<link>https://raw.githubusercontent.com/redhood36/xmls/master/cams.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 
 </dir>
+
+
 
