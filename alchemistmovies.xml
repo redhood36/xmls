@@ -41,6 +41,16 @@
  </dir>
 
 <dir>
+      <title>J.R.R Tolkiens Movies</title>
+      <trakt>https://api.trakt.tv/users/echang/lists/jr-tolkien/items</trakt>
+</dir>
+
+<dir>
+      <title>Stephen King Movies</title>
+      <trakt>https://api.trakt.tv/users/missluna/lists/stephen-king/items</trakt>
+</dir>
+
+<dir>
       <title>Search</title>
       <tmdb>search</tmdb>
 </dir>
