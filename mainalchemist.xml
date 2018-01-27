@@ -1,11 +1,8 @@
-<xml>
-  <dir>
-    <title>Formats</title>
-    <link>file://formats/main.xml</link>
-  </dir>
+<dir>
 
-  <dir>
-    <title>Shared Lists</title>
-    <link>file://shared lists/main.xml</link>
-  </dir>
-</xml>
+<name>[COLORgold]New Movies[/COLOR]</name>
+<link>https://raw.githubusercontent.com/redhood36/xmls/master/doom.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+</dir>
