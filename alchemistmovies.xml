@@ -35,10 +35,10 @@
 
 </dir>
 
- <dir>
-      <title>Tim Burton Movies</title>
-      <tmdb>keyword/movies/46215</tmdb>
-    </dir>
+<dir>
+<title>Tim Burton Movies</title>
+<tmdb>collection/46215</tmdb>
+</dir>
 
 <dir>
       <title>Search</title>
