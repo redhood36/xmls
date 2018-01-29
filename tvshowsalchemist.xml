@@ -4,6 +4,11 @@
 </dir>
 
 <dir>
+    <title>200 Top Rated Mini Series</title>
+    <imdburl>list/ls021688962</imdburl>
+</dir>
+
+<dir>
       <title>Airing Today</title>
       <tmdb>tv/today</tmdb>
 </dir>
@@ -19,9 +24,16 @@
 </dir>
 
 <dir>
+    <title>Best Spanish TV Series</title>
+    <imdburl>list/ls063909699</imdburl>
+</dir>
+
+<dir>
       <title>My lists</title>
       <trakt>https://api.trakt.tv/users/me/lists/</trakt>
 </dir>
+
+
 
 <dir>
       <title>Search</title>
