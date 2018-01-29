@@ -29,6 +29,11 @@
 </dir>
 
 <dir>
+    <title>Top 60 Univision Novelas</title>
+    <imdburl>list/ls003341824</imdburl>
+</dir>
+
+<dir>
       <title>My lists</title>
       <trakt>https://api.trakt.tv/users/me/lists/</trakt>
 </dir>
