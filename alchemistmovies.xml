@@ -74,14 +74,6 @@
     <imdburl>list/ls021641604</imdburl>
 </dir>
 
- <dir>
-    <title>Alchemist TV</title>
-    <thumbnail></thumbnail>
-    <m3u>http://vaders.tv:80/get.php?username=RonVan&password=blue123&type=m3u_plus&output=m3u8</m3u>
-    <fanart></fanart>
-    <info> </info>
- </dir>
-
 <dir>
       <title>Search</title>
       <tmdb>search</tmdb>
