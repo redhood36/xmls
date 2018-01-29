@@ -75,6 +75,11 @@
 </dir>
 
 <dir>
+    <title>Top Spanish Movies</title>
+    <imdburl>list/ls021688217</imdburl>
+</dir>
+
+<dir>
       <title>Search</title>
       <tmdb>search</tmdb>
 </dir>
