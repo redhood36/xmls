@@ -1,16 +1,16 @@
-<items>
-        <item>
+
+        <dir>
         <title>[B][COLORgoldenrod]Latest Releases[/COLOR][/B]</title>
         <link>https://raw.githubusercontent.com/redhood36/xmls/master/movies.xml</link>
         <thumbnail>http://schools.graniteschools.org/pleasantgreen/files/2016/11/Movie-and-Popcorn.png</thumbnail>
         <fanart></fanart>
-	</item>
+	</dir>
 	
-	<item>
+	<dir>
         <title>[B][COLORturquoise]Disney/Pixar [/COLOR][/B]</title>
         <link>http://lookingglass.rocks/taquitz/Xml/pixar.xml</link>
         <thumbnail>https://nerdist.com/wp-content/uploads/2015/06/pixar-movies1.jpg</thumbnail>
 	<fanart>http://images6.fanpop.com/image/photos/33100000/mad-march-hare-march-hare-33179588-1920-1080.jpg</fanart>
-        </item>
+        </dir>
 		      
-</items>
+
