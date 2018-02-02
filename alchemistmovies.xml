@@ -26,11 +26,6 @@
 </dir>
 
 <dir>
-    <title>Best Family Movies</title>
-    <imdburl>list/ls021200609</imdburl>
-</dir>
-
-<dir>
       <title>In Theaters</title>
       <tmdb>movies/now_playing</tmdb>
 </dir>
