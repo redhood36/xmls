@@ -36,12 +36,6 @@
 </dir>
 
 <dir>
-    <title>Top Action Movies 2000-2018</title>
-    <imdburl>list/ls021242755</imdburl>
-    <thumbnail>https://avatarfiles.alphacoders.com/109/109768.jpg</thumbnail>
-</dir>
-
-<dir>
 
 <name>Cam Copies</name>
 <link>https://raw.githubusercontent.com/redhood36/xmls/master/cams.xml</link>
